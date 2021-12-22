@@ -1,4 +1,4 @@
-module DIDWallet
+module github.com/lyszhang/DIDWallet
 
 go 1.15
 
