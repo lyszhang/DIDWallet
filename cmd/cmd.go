@@ -1,15 +1,15 @@
 package main
 
 import (
-	"DIDWallet/model"
-	"DIDWallet/utils"
+	"github.com/lyszhang/DIDWallet/model"
+	"github.com/lyszhang/DIDWallet/utils"
 	"errors"
 	"fmt"
 	hub "github.com/StupidTAO/DIDHub/model"
 	"github.com/ethereum/go-ethereum/common"
 	"gopkg.in/urfave/cli.v1"
 	"io/ioutil"
-	"DIDWallet/log"
+	"github.com/lyszhang/DIDWallet/log"
 	"net/http"
 	URL "net/url"
 	"os"

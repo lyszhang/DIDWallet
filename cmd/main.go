@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"DIDWallet/log"
+	"github.com/lyszhang/DIDWallet/log"
 	hublog "github.com/StupidTAO/DIDHub/log"
 )
 

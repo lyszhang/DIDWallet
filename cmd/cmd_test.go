@@ -1,8 +1,8 @@
 package main
 
 import (
-	"DIDWallet/model"
-	"DIDWallet/utils"
+	"github.com/lyszhang/DIDWallet/model"
+	"github.com/lyszhang/DIDWallet/utils"
 	"fmt"
 	"testing"
 )

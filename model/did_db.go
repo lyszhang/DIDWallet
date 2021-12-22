@@ -1,8 +1,8 @@
 package model
 
 import (
-	"DIDWallet/db"
-	"DIDWallet/utils"
+	"github.com/lyszhang/DIDWallet/db"
+	"github.com/lyszhang/DIDWallet/utils"
 	"errors"
 	"fmt"
 	"time"

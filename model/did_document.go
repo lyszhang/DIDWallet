@@ -2,7 +2,7 @@ package model
 
 import (
 	"encoding/json"
-	"DIDWallet/utils"
+	"github.com/lyszhang/DIDWallet/utils"
 )
 
 type PublicKey struct {

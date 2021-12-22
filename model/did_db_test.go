@@ -1,7 +1,7 @@
 package model
 
 import (
-	"DIDWallet/utils"
+	"github.com/lyszhang/DIDWallet/utils"
 	"fmt"
 	"math/rand"
 	"strconv"
